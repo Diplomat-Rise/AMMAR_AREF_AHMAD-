@@ -40,7 +40,7 @@ BEGIN:VCARD
 VERSION:3.0
 FN:AMMAR  AREF AHMAD 
 TITLE:Sales Manager
-ORG:RISE Properties
+ORG:AMMAR AREF AHMAD 
 TEL;TYPE=WORK,VOICE:+971553312566
 TEL;TYPE=WORK,VOICE:+97145665109
 EMAIL:Ammar@riseproperties.ae
@@ -65,4 +65,5 @@ document.querySelector('.save-contact-button').addEventListener('click', functio
   e.preventDefault();
   downloadVCard();
 });
+
 
